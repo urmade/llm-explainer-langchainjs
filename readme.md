@@ -1,0 +1,1 @@
+"Hello World" project for langchain.js. It requires a local Ollama instance (though the LLM could be easily replaced using Langchain). It uses the LLMs inherent knowledge to answer a given question.
